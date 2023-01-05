@@ -1,0 +1,15 @@
+{
+    "name": "org.syunji.fzbase.zoetrope",
+    "version": "0.1.0",
+    "displayName": "FZ Zoetrope",
+    "description": "A Simple Zoetrope",
+    "unity": "2022.1",
+    "unityRelease": "3f1",
+    "dependencies": { },
+    "keywords": [ "Future Zoetrope" ],
+    "author": {
+        "name": "YAZAKI, Syunji",
+        "email": "syunji@gmail.com",
+        "url": "https://www.example.com"
+    }
+}
